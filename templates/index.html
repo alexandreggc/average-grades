@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UC Grade Calculator</title>
+</head>
+<body>
+    <h1>UC Grade Calculator</h1>
+    <form method="POST">
+        <select name="course_select" id="course_select">
+            <option value="" selected>Select Course</option>
+            <option value="URLELETRO">Electrical Engineering</option>
+            <option value="URLCIVIL">Civil Engineering</option>
+            <option value="URLINFORMATICA">Computer Science</option>
+        </select>
+        <br><br>
+        <table>
+            <thead>
+                <tr>
+                    <th>UC Name</th>
+                    <th>UC Credits</th>
+                    <th>UC Grade</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for uc in UCS %}
+                <tr>
+                    <td>{{ uc.name }}</td>
+                    <td>{{ uc.credits }}</td>
+                    <td><input type="number" name="{{ uc.name }}" step="1" min="0" max="20" value="{{ uc.grade }}"></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <br>
+        <input type="submit" value="Calculate Average Grade">
+    </form>
+    <br>
+    {% if average_grade > 0 %}
+    <h2>Average Grade: {{ average_grade }}</h2>
+    {% endif %}
+
+    <script>
+        document.getElementById('course_select').addEventListener('change', function() {
+            var selectedCourse = this.value;
+            window.location.href = "/?url=" + selectedCourse;
+        });
+    </script>
+</body>
+</html>

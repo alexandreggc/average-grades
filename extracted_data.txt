@@ -1,0 +1,248 @@
+Year: 1º Ano
+UC Name: Álgebra Linear e Geometria Analítica
+UC Credits: 4.5
+
+UC Name: Análise Matemática I
+UC Credits: 6.0
+
+UC Name: Fundamentos de Sistemas Computacionais
+UC Credits: 6.0
+
+UC Name: Matemática Discreta
+UC Credits: 6.0
+
+UC Name: Fundamentos da Programação
+UC Credits: 6.0
+
+UC Name: Projeto UP
+UC Credits: 1.5
+
+UC Name: Análise Matemática II
+UC Credits: 6.0
+
+UC Name: Física I
+UC Credits: 6.0
+
+UC Name: Arquitetura de Computadores
+UC Credits: 6.0
+
+UC Name: Teoria da Computação
+UC Credits: 6.0
+
+UC Name: Programação
+UC Credits: 6.0
+
+Year: 1º Ano
+UC Name: Álgebra Linear e Geometria Analítica
+UC Credits: 4.5
+
+UC Name: Análise Matemática I
+UC Credits: 6.0
+
+UC Name: Fundamentos de Sistemas Computacionais
+UC Credits: 6.0
+
+UC Name: Matemática Discreta
+UC Credits: 6.0
+
+UC Name: Fundamentos da Programação
+UC Credits: 6.0
+
+UC Name: Projeto UP
+UC Credits: 1.5
+
+UC Name: Análise Matemática II
+UC Credits: 6.0
+
+UC Name: Física I
+UC Credits: 6.0
+
+UC Name: Arquitetura de Computadores
+UC Credits: 6.0
+
+UC Name: Teoria da Computação
+UC Credits: 6.0
+
+UC Name: Programação
+UC Credits: 6.0
+
+Year: Álgebra Linear e Geometria Analítica
+UC Name: Álgebra Linear e Geometria Analítica
+UC Credits: 4.5
+
+UC Name: Análise Matemática I
+UC Credits: 6.0
+
+UC Name: Fundamentos de Sistemas Computacionais
+UC Credits: 6.0
+
+UC Name: Matemática Discreta
+UC Credits: 6.0
+
+UC Name: Fundamentos da Programação
+UC Credits: 6.0
+
+UC Name: Projeto UP
+UC Credits: 1.5
+
+UC Name: Análise Matemática II
+UC Credits: 6.0
+
+UC Name: Física I
+UC Credits: 6.0
+
+UC Name: Arquitetura de Computadores
+UC Credits: 6.0
+
+UC Name: Teoria da Computação
+UC Credits: 6.0
+
+UC Name: Programação
+UC Credits: 6.0
+
+Year: 2º Ano
+UC Name: Algoritmos e Estruturas de Dados
+UC Credits: 6.0
+
+UC Name: Bases de Dados
+UC Credits: 6.0
+
+UC Name: Física II
+UC Credits: 4.5
+
+UC Name: Sistemas Operativos
+UC Credits: 6.0
+
+UC Name: Laboratório de Desenho e Teste de Software
+UC Credits: 6.0
+
+UC Name: Competências Transversais I 2ºA - 1ºS
+UC Credits: 1.5
+
+UC Name: Laboratório de Computadores
+UC Credits: 6.0
+
+UC Name: Desenho de Algoritmos
+UC Credits: 6.0
+
+UC Name: Engenharia de Software
+UC Credits: 6.0
+
+UC Name: Métodos Estatísticos
+UC Credits: 4.5
+
+UC Name: Linguagens e Tecnologias Web
+UC Credits: 6.0
+
+UC Name: Competências Transversais II 2ºA - 2ºS
+UC Credits: 1.5
+
+Year: Algoritmos e Estruturas de Dados
+UC Name: Algoritmos e Estruturas de Dados
+UC Credits: 6.0
+
+UC Name: Bases de Dados
+UC Credits: 6.0
+
+UC Name: Física II
+UC Credits: 4.5
+
+UC Name: Sistemas Operativos
+UC Credits: 6.0
+
+UC Name: Laboratório de Desenho e Teste de Software
+UC Credits: 6.0
+
+UC Name: Competências Transversais I 2ºA - 1ºS
+UC Credits: 1.5
+
+UC Name: Laboratório de Computadores
+UC Credits: 6.0
+
+UC Name: Desenho de Algoritmos
+UC Credits: 6.0
+
+UC Name: Engenharia de Software
+UC Credits: 6.0
+
+UC Name: Métodos Estatísticos
+UC Credits: 4.5
+
+UC Name: Linguagens e Tecnologias Web
+UC Credits: 6.0
+
+UC Name: Competências Transversais II 2ºA - 2ºS
+UC Credits: 1.5
+
+Year: 3º Ano
+UC Name: Interação Pessoa Computador
+UC Credits: 4.5
+
+UC Name: Laboratório de Bases de Dados e Aplicações Web
+UC Credits: 6.0
+
+UC Name: Redes de Computadores
+UC Credits: 6.0
+
+UC Name: Fundamentos de Segurança Informática
+UC Credits: 6.0
+
+UC Name: Programação Funcional e em Lógica
+UC Credits: 6.0
+
+UC Name: Competências Transversais III 3ºA - 1ºS
+UC Credits: 1.5
+
+UC Name: Computação Paralela e Distribuída
+UC Credits: 6.0
+
+UC Name: Compiladores
+UC Credits: 6.0
+
+UC Name: Computação Gráfica
+UC Credits: 6.0
+
+UC Name: Projeto Integrador
+UC Credits: 6.0
+
+UC Name: Inteligência Artificial
+UC Credits: 6.0
+
+Year: Interação Pessoa Computador
+UC Name: Interação Pessoa Computador
+UC Credits: 4.5
+
+UC Name: Laboratório de Bases de Dados e Aplicações Web
+UC Credits: 6.0
+
+UC Name: Redes de Computadores
+UC Credits: 6.0
+
+UC Name: Fundamentos de Segurança Informática
+UC Credits: 6.0
+
+UC Name: Programação Funcional e em Lógica
+UC Credits: 6.0
+
+UC Name: Competências Transversais III 3ºA - 1ºS
+UC Credits: 1.5
+
+UC Name: Computação Paralela e Distribuída
+UC Credits: 6.0
+
+UC Name: Compiladores
+UC Credits: 6.0
+
+UC Name: Computação Gráfica
+UC Credits: 6.0
+
+UC Name: Projeto Integrador
+UC Credits: 6.0
+
+UC Name: Inteligência Artificial
+UC Credits: 6.0
+
+Year: 
+Year: 
+Year: 
+Year: Competências Transversais/Transferíveis
