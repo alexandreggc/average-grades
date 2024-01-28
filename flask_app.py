@@ -44,7 +44,7 @@ def index():
                 uc.set_grade(None)
         
         if total_credits > 0:
-            average_grade = weighted_sum / total_credits
+            average_grade = round(weighted_sum / total_credits, 2)
         else:
             average_grade = 0
         
